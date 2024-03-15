@@ -1,4 +1,4 @@
 <?php
 echo "PHP is  Working";
-getcwd();
+echo "alwais bhaiiiiiiiiiiiiiiiiiiiii":
 ?>
