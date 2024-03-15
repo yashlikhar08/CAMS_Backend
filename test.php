@@ -1,4 +1,5 @@
 <?php
 echo "PHP is  Working";
-phpinfo();
+$ip  =  getIPAddress();
+echo $ip;
 ?>
