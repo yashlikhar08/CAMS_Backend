@@ -1,4 +1,4 @@
 <?php
-echo "PHP is  Working"
+echo "PHP is  Working";
 phpinfo();
 ?>
